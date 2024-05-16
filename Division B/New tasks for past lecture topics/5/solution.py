@@ -1,3 +1,5 @@
+#Python 3.12.1
+
 import string
 
 alphabet = string.ascii_lowercase
