@@ -1,4 +1,5 @@
- class="header">
+<div class="problem-statement">
+   <div class="header">
       <h1 class="title">28. Ход конём</h1>
       <table>
          <tr class="time-limit">
