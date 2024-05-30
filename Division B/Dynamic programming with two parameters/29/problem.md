@@ -29,7 +29,7 @@
    </div>
    <h2>Формат ввода</h2>
    <div class="input-specification"><span style="">
-         <p>Входной файл содержит два натуральных числа <span class="tex-math-text">N</span> и <span class="tex-math-text">M</span> <span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/KDEgXGxlcXNsYW50IE4=.png"></span>, <span class="tex-math-inline"><img class="tex-math" src="/testsys/tex/render/TSBcbGVxc2xhbnQgNTAp.png"></span>.
+         <p>Входной файл содержит два натуральных числа <span class="tex-math-text">N</span> и <span class="tex-math-text">M</span> <span class="tex-math-inline"><img class="tex-math" src="pic1.png"></span>, <span class="tex-math-inline"><img class="tex-math" src="pic2.png"></span>.
          </p></span></div>
    <h2>Формат вывода</h2>
    <div class="output-specification"><span style="">
